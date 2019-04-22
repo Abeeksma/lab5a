@@ -11,6 +11,6 @@ body {
   border-right: 1px solid black;
 }
 
-nav, header, aside, .content, .box, footer {
+nav, header, aside, section, footer {
   border: .5px solid black;
 }
