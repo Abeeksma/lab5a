@@ -1,0 +1,21 @@
+.grid {
+  display: grid;
+}
+
+/* laptops / desktops 1025px to + */
+
+@media (min-width: 1025px)  {
+
+}
+
+/* tablets / ipads 768px to 1024px */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+}
+
+/* mobile 320px to 767px */
+
+@media (min-width: 320px) and (max-width: 767px) {
+  
+}
