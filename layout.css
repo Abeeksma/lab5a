@@ -8,6 +8,7 @@
     grid-template-rows: 75px 150px 125px 125px 250px 250px 80px;
     justify-content: center;
   }
+
  .full {
    grid-column: 1 / 3;
  } 
@@ -16,11 +17,21 @@
 /* tablets / ipads 768px to 1024px */
 
 @media (min-width: 768px) and (max-width: 1024px) {
-  
+    .grid {
+    display: grid;
+    grid-template-columns: 200px 250px 250px 250px 250px;
+    grid-template-rows: 100px 200px 190px 150px;
+    justify-content: center;
+  }
 }
 
 /* laptops / desktops 1025px to + */
 
 @media (min-width: 1025px)  {
-
+  .grid {
+    display: grid;
+    grid-template-columns: 200px 250px 250px 250px 250px;
+    grid-template-rows: 100px 200px 190px 150px;
+    justify-content: center;
+  }
 }
