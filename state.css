@@ -2,17 +2,86 @@
 /* laptops / desktops 1025px to + */
 
 @media (min-width: 1025px)  {
-
+  .a {
+    background-color: #D9BBF9;
+  }
+  .b {
+    background-color: #CCA7A2;
+  }
+  .c {
+    background-color: #AA9FB1;
+  }
+  .e {
+    background-color: #7871AA;
+  }
+  .f {
+    background-color: #4E5283;
+  }
+  .g {
+    background-color: #DAFFEF;
+  }
+  .h {
+    background-color: #D0FFD6;
+  }
+  .i {
+    background-color: #D5E2BC;
+  }
 }
 
 /* tablets / ipads 768px to 1024px */
 
 @media (min-width: 768px) and (max-width: 1024px) {
-  
+  .a {
+    background-color: #222E50;
+  }
+  .b {
+    background-color: #007991;
+  }
+  .c {
+    background-color: #439A86;
+  }
+  .e {
+    background-color: #BCD8C1; 
+  }
+  .f {
+    background-color: #E9D985;
+  }
+  .g {
+    background-color: #7B7554;
+  }
+  .h {
+    background-color: #17183B;
+  }
+  .i {
+    background-color: #A11692;
+  }
 }
 
 /* mobile 320px to 767px */
 
 @media (min-width: 320px) and (max-width: 767px) {
-  
+  .a {
+    background-color: #3C91E6;
+  }
+  .b {
+    background-color: #9FD356;
+  }
+  .c {
+    background-color: #342E37;
+  }
+  .e {
+    background-color: #FAFFFD;
+  }
+  .f {
+    background-color: #FA824C;
+  }
+  .g {
+    background-color: #EE6C4D;
+  }
+  .h {
+    background-color: #662C91;
+  }
+  .i {
+    background-color: #780116;
+  }
 }
